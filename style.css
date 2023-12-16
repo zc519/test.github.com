@@ -2,8 +2,6 @@ body {
   background: grey;
   font-family: "Arial";
   background-image: url(background.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
   background-size: cover;
 }
 
