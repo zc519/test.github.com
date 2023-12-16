@@ -1,7 +1,8 @@
 body {
+  height: 100vh;
   background: grey;
   font-family: "Arial";
-  background-image: url(background.jpg);
+  background-image: url(../background.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
