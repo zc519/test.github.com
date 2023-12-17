@@ -17,7 +17,17 @@
   .hero {
     background-position: 50% 0;
   }
-
+}
+.hero:after {
+  background-color: rgba(62, 92, 135, 0.5);
+  bottom: 0;
+  content: "";
+  left: -2000%;
+  position: absolute;
+  right: -2000%;
+  top: 0;
+  z-index: 1;
+}
 
 .hero-container {
   box-sizing: border-box;
